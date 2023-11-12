@@ -1,0 +1,70 @@
+.pannel {    
+    width: 100px; 
+    height: 720px;   
+    padding: 10px;    
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: none;    
+    background-color: #ABBAEA;    
+}
+
+.col-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.card {
+    max-width: 540px;
+    margin: 0 auto;
+}
+
+.btn-circle.btn-xl {
+    width: 30px;
+    height: 30px;
+    padding: 2px 2px;
+    border-radius: 30px;
+    font-size: 15px;
+    text-align: center;
+    float: right;
+}
+
+.btn-delete {
+    margin-bottom: 15px;
+    float: right;
+}
+
+.dashboards {
+    float: left;
+    display: block;
+    margin-left: 2rem;
+}
+
+.project-title {
+    text-align: center; 
+}
+
+.dashboards-title {             
+    margin-bottom: 40px;  
+    margin-left: 40px;  
+}
+
+.card-img-top{
+    height: 150px;
+    width: 100px;
+}
+
+.col-4 {
+    margin-bottom: 20px;
+}
+
+.input-label{
+    font-weight: bold;
+}
+
+.title-link {
+    text-decoration: none;
+    color: black;
+}
